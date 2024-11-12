@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Brasha</title>
+        <style>
+        #titulo {
+            text-align:center; 
+            text-decoration:underline;
+        }
+        </style>
+    </head>
+    <body>
+    
+    <div class ="titulo">
+    <h1>Brasha</h1>
+    </div>
+
+    <nav>
+    <ul>
+        <li><a href=""> Inicio </a> </li>
+        <li><a href=""> Mes informacion </a> </li>
+        <li><a href=""> Mas de nosotros </a> </li>
+    </ul>
+    </nav>
+    <div class ="contenido">
+        <div class ="mision">
+            <h2>Mision</h2>
+            <p>Mi meta es utilizar mis habilidades en ingeniería de sistemas, sumadas a la educación adquirida en el SENA y otros centros de estudio, para explorar en profundidad campos particulares como el diseño y desarrollo de sitios web, además de lenguajes y tecnologías como CSS y Python. Esto me brindará la oportunidad de brindar valor a las personas y aportar de manera significativa en proyectos que requieran de soluciones tecnológicas innovadoras. </p>
+            <img src="">
+        </div>
+     <div class="vicion">
+         <h2>Vicion</h2>
+         <p>Convertirme en un líder que impulsa y dirige la creación de proyectos innovadores para empresas de todos los tamaños, alcanzando reconocimiento por el valor y la calidad de mis contribuciones </p>
+     </div>
+    <div class="objetivos">
+    <h2>Objetivos</h2>
+    <li>Crear aplicaciones de practica que mejoren las habilidades y me abran paso a una mundo profesional.</li>
+    <li>Tener un equipo de trabajo para mejorar la calidad de los proyectos.</li>
+    <li>Completar varios certificados en la creación de aplicaciones y seguridad por medio de varias academias Udemy, Sena... Entre otras. </li>
+    </div>
+    </div>
+    
+
+    </body>
+</html>
